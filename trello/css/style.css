@@ -1,0 +1,12 @@
+.column-container {
+	display: flex;
+    justify-content: center;
+}
+
+.column {
+	display: inline-block;
+    margin: 0 5%;
+    border: 2px solid black;
+    width: 100%;
+    background: grey;
+}
